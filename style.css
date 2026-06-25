@@ -5,7 +5,7 @@ body{
 
 
 header{
-    background-color: darkred;
+    background-color: rgb(0, 0, 0);
     color:white;
     height: 6em;
 }
@@ -13,5 +13,24 @@ header{
 header h1{
     font-size: 34px;
     text-align:center;
-    /*font-family: sans-serif;
+    font-family: sans-serif;
 }
+
+
+img{
+    width: 500px;
+    height: 280px;
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    text-align:center ;
+    color: white;
+    position: fixed;
+    width: 100%;
+}
+
+ main{
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+ }
